@@ -11,6 +11,7 @@ Thanks for visiting my GitHub account!
 - VS Code, Download ->https://code.visualstudio.com/download
 - Node, Download-> https://nodejs.org/en/download
 - MongoDB Shell(msi) , Download-> https://www.mongodb.com/try/download/shell
+- MongoDB community (msi), download->(https://www.mongodb.com/try/download/community)
 - Postman (Optional), Download-> https://www.postman.com/downloads/
 
 **Or Online Database (MongoDB Atlas)**
@@ -97,14 +98,6 @@ Thanks for visiting my GitHub account!
 
 ## How to run this project
 
-### Download NodeJs , mongoDB community server , mongoDB compass and install
-
-1. [NodeJS download](https://nodejs.org/en/download)
-
-2. [MongoDB community server download](https://www.mongodb.com/try/download/community)
-
-3. [MongoDB compass download](https://www.mongodb.com/try/download/shell)
-
 ## Backend install
 
 ### Run this command in root folder
@@ -185,20 +178,17 @@ npm start
 - Socket
 - axios
 
-## Socket IO
-
-**If any error occur for socket.io/Network error then change the port (8080) for socket.io in both app.js and Cart.jsx file with your recomendd port.**
-
 ## Project Overview
 
-|                                                                                                                             |                                                                                                                        |
-| :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                                            Home                                                             |                                                        Product                                                         |
-|       ![Home](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/Index.png)       |   ![Product](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/Store.png)   |
-|                                                       Single Product                                                        |                                                        Checkout                                                        |
-| ![single-product](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/Product.png) | ![checkout](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/Checkout.png) |
-|                                                           Profile                                                           |                                                        Regular                                                         |
-|    ![profile](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/profile.png)     |  ![reqular](https://github.com/learnwithfair/mern-ecommerce-electro-master/blob/main/screenshot/frontend/Regular.png)  |
+|                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------: |
+|                                                  Dashboard                                                  |
+| ![dashboard](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/dashboard.png) |
+
+|                                                                                                        |                                                                                                        |
+| :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|                                                Sign-in                                                 |                                                Sign-Up                                                 |
+| ![singin](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/sign-in.png) | ![signup](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/sign-up.png) |
 
 ## Necessary Code
 
