@@ -180,15 +180,15 @@ npm start
 
 ## Project Overview
 
-|                                                                                                             |
-| :---------------------------------------------------------------------------------------------------------: |
-|                                                  Dashboard                                                  |
-| ![dashboard](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/dashboard.png) |
 
 |                                                                                                        |                                                                                                        |
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |                                                Sign-in                                                 |                                                Sign-Up                                                 |
 | ![singin](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/sign-in.png) | ![signup](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/sign-up.png) |
+|                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------: |
+|                                                  Dashboard                                                  |
+| ![dashboard](https://github.com/learnwithfair/simple-chat-app-with-mern/blob/main/screenshot/dashboard.png) |
 
 ## Necessary Code
 
